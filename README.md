@@ -11,5 +11,14 @@
 <br />
 <strong>What I modified?</strong>
 <p>I added some tokens which represents chess pieces. These pieces represents as a token on the blockchain.</p>
+<br />
+<strong>What I used:</strong>
+<ul>
+  <li>ReactJS for frontend</li>
+  <li>Solidity as your backend to communicate with the blockchain</li>
+  <li>Truffle to test the application on a blockchain network</li>
+  <li>Some web3js</li>
+  <li>Lots of patience!</li>
+</ul>
 <p>If you want to learn how to build this application, head to link below.</p>
 <a href="https://www.youtube.com/watch?v=nvw27RCTaEw&t=136s" target="_blank" rel="noopener">How to build your own blockchain app!</a>
